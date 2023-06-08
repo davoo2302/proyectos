@@ -5,13 +5,13 @@ h1 {
 }
 
 h2 {
-  color: rgb(238, 238, 42);
+  color: rgb(224, 224, 92);
   font-size: 20px;
 }
 
 body {
-  background-color: rgb(90, 2, 2);
-  color: white;
+  background-color: rgb(156, 106, 106);
+  color: rgb(216, 137, 137);
 }
 
 p {
